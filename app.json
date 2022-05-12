@@ -7,7 +7,7 @@
   "env": {
     "PROTOCOL": {
       "description": "要部署的协议vmess或vless,请填小写的vmess或vless",
-      "value": "vmess",
+      "value": "vless",
       "required": true
     },
     "UUID": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/yct7ed/Zesr",
+  "repository": "https://github.com/yct7ed/Zesr",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
